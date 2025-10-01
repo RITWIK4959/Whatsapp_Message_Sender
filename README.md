@@ -24,5 +24,5 @@ You can set the recipient, message, and a future date/time — the script will a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/whatsapp-message-scheduler.git
+   git clone https://github.com/RITWIK4959/whatsapp-message-scheduler.git
    cd whatsapp-message-scheduler
